@@ -150,7 +150,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 
 #content {
 	margin: auto;
-	margin-top: 115px;
+	margin-top: 110px;
 	width: 90%;
 	overflow: hidden;
 }
@@ -182,7 +182,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 
 #menu {
 	position: absolute;
-	top: 223px;
+	top: 221px;
 	width: 100%;
 	padding: 0.6em 0;
 	text-align: center;
@@ -211,7 +211,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 
 #userinfo {
 	position: absolute;
-	top: 257px;
+	top: 255px;
 	background: #efec82;
 	color: #444;
 	padding: 4px 0px;
@@ -252,7 +252,7 @@ ul.thin li { margin:0px 0px; padding:0px; }
 
 #searchbars {
 	position: absolute;
-	top: 196px;
+	top: 194px;
 	width: 100%;
 	text-align: center;
 	background-color: #1a827e;
