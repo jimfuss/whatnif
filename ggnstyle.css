@@ -1,0 +1,7 @@
+@import 'https://passthestyles.github.io/stylesheets/pth/genaviv-reborn/light-teal/lt-nobanner.css';
+@import 'https://passthestyles.github.io/stylesheets/pth/genaviv-reborn/global/stiller.css';
+
+#logo {
+	background: url('https://cdn.rawgit.com/jontomy/whatnif/master/ggnshittylogo.png') no-repeat top left;
+	margin: 0 auto;
+}
